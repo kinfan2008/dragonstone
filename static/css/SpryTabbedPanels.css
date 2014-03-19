@@ -1,0 +1,77 @@
+.TabbedPanels {
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+	width: 100%; /* IE Hack to force proper layout when preceded by a paragraph. (hasLayout Bug)*/
+}
+.TabbedPanelsTab {
+	text-align: center;
+	width: 99px;
+}
+.TabbedPanelsTabGroup {
+	margin: 0px auto;
+	padding: 0px;
+	border:1px solid #bfdada;
+	overflow:hidden;
+	background:url(../images/tab.png) repeat-x left top;
+	border-radius:5px;
+	height:42px;
+	width:599px;
+}
+.TabbedPanelsTab {
+	position: relative;
+	float: left;
+	padding: 0px 46.3px;
+	list-style: none;
+	line-height:normal;
+	text-transform:uppercase;
+	color:#4c4c4c;
+	font-size:16px;
+	text-shadow:1px 1px 1px #FFF;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	cursor: pointer;
+	font-weight:bold;
+	border-right:1px solid #bfdada;
+}
+.TabbedPanelsTabHover {
+	background:url(../images/tabactive.png) repeat-x left top;
+	color:#FFF;
+}
+.TabbedPanelsTabSelected {
+	background:url(../images/tabactive.png) repeat-x left top;
+	color:#FFF;
+}
+.TabbedPanelsTab a {
+	text-decoration: none;
+}
+.TabbedPanelsContentGroup {
+	clear: both;
+	padding:20px 0 0 0;
+}
+.TabbedPanelsContent {
+	overflow: hidden;
+	width:950px;
+}
+/* Styles for Printing */
+@media print {
+.TabbedPanels {
+	overflow: visible !important;
+}
+.TabbedPanelsContentGroup {
+	display: block !important;
+	overflow: visible !important;
+	height: auto !important;
+}
+.TabbedPanelsContent {
+	overflow: visible !important;
+	display: block !important;
+	clear:both !important;
+}
+.TabbedPanelsTab {
+	 overflow: visible !important;
+	 display: block !important;
+	 clear:both !important;
+}
+}

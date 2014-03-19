@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/static/css/fallback.css" description="body {" line="59" />
+    <bookmark url="file://$PROJECT_DIR$/templates/dragon/addExperiment.html" description="&lt;ul&gt;&#10;&lt;li&gt;&#10;&lt;a href=&quot;#&quot;&gt;User Profile&lt;/a&gt;&#10;&lt;dl&gt;&#10;&lt;dt&gt;&lt;/..." line="131" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a422e34b-3187-4e18-b080-6b05bebe212e" name="Default" comment="" />
+    <ignored path="dragon_stone.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dragon_stone$populate_dragon.coverage" NAME="populate_dragon Coverage Results" MODIFIED="1395001782251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dragon_stone$populate_Dragon.coverage" NAME="populate_Dragon Coverage Results" MODIFIED="1394213929024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dragon_stone$manage.coverage" NAME="manage Coverage Results" MODIFIED="1394030974376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dragon_stone" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AvailableExperiment.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dragon/AvailableExperiment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="6" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.0" vertical-offset="3224" max-vertical-offset="3406">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dragon/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="7" selection-start="3559" selection-end="3611" vertical-scroll-proportion="0.0" vertical-offset="2782" max-vertical-offset="3302">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dragon/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="30" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="728" max-vertical-offset="1222">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dragon/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1378">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InviteAccept.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dragon/InviteAccept.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="4" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0" vertical-offset="1612" max-vertical-offset="2834">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dragon/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="466" column="21" selection-start="18592" selection-end="18592" vertical-scroll-proportion="1.3358349" vertical-offset="11170" max-vertical-offset="12350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorApply.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dragon/ErrorApply.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="6" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="2860">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dragon/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="10" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="910">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intro_Login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dragon/intro_Login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="0" selection-start="4302" selection-end="4302" vertical-scroll-proportion="0.0" vertical-offset="4004" max-vertical-offset="4238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dragon_stone/urls.py" />
+        <option value="$PROJECT_DIR$/dragon/admin.py" />
+        <option value="$PROJECT_DIR$/static/js/cnxx.js" />
+        <option value="$PROJECT_DIR$/static/css/fallback.css" />
+        <option value="$PROJECT_DIR$/templates/dragon/home.html" />
+        <option value="$PROJECT_DIR$/static/css/SpryTabbedPanels.css" />
+        <option value="$PROJECT_DIR$/populate_Dragon.py" />
+        <option value="$PROJECT_DIR$/dragon/form.py" />
+        <option value="$PROJECT_DIR$/dragon_stone/settings.py" />
+        <option value="$PROJECT_DIR$/static/css/style1.css" />
+        <option value="$PROJECT_DIR$/populate_dragon.py" />
+        <option value="$PROJECT_DIR$/templates/dragon/Login.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/PendCancel.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/userHome.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/User_infor.html" />
+        <option value="$PROJECT_DIR$/dragon/models.py" />
+        <option value="$PROJECT_DIR$/templates/dragon/intro.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/dragon/User_infor1.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/refuse.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/InviteAccept.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/intro_Login.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/AvailableExperiment.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/addExperiment.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/apply_intro_login.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/applyList.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/cancel.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/InviteCancel.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/offer.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/ownedList.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/SuccessfulApply.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/dealExperiment.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/search.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/register.html" />
+        <option value="$PROJECT_DIR$/dragon/forms.py" />
+        <option value="$PROJECT_DIR$/templates/dragon/index.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/ErrorApply.html" />
+        <option value="$PROJECT_DIR$/templates/dragon/addError.html" />
+        <option value="$PROJECT_DIR$/dragon/urls.py" />
+        <option value="$PROJECT_DIR$/dragon/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="250" />
+    <option name="y" value="26" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyArgumentListInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon_stone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dragon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tim\PycharmProjects\dragon_stone\static\images" />
+      <recent name="C:\Users\Tim\PycharmProjects\dragon_stone\static\js" />
+      <recent name="C:\Users\Tim\PycharmProjects\dragon_stone\static\css" />
+      <recent name="C:\Users\Tim\PycharmProjects\dragon_stone\templates\dragon" />
+      <recent name="C:\Users\Tim\PycharmProjects\dragon_stone\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\dragon_stone\templates\dragon" />
+      <recent name="E:\dragon_stone\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.dragon_stone">
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="populate_Dragon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Tim\PycharmProjects\dragon_stone\populate_dragon.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="populate_dragon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/populate_dragon.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dragon_stone" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dragon_stone.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dragon_stone" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Django server.dragon_stone" />
+      <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.populate_Dragon" />
+      <item index="3" class="java.lang.String" itemvalue="Python.populate_dragon" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.populate_dragon" />
+        <item index="1" class="java.lang.String" itemvalue="Python.populate_Dragon" />
+        <item index="2" class="java.lang.String" itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a422e34b-3187-4e18-b080-6b05bebe212e" name="Default" comment="" />
+      <created>1393823247713</created>
+      <updated>1393823247713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="250" y="26" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328594" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13277693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295838" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.34276205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34408602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/dragon/models.py</url>
+          <line>22</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dragon/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="279" column="0" selection-start="11345" selection-end="11345" vertical-scroll-proportion="0.0" vertical-offset="7228" max-vertical-offset="7228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/ErrorApply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="2860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/intro_Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="0" selection-start="4276" selection-end="4276" vertical-scroll-proportion="0.0" vertical-offset="4004" max-vertical-offset="4212">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon_stone/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="192" selection-end="192" vertical-scroll-proportion="0.15676567" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="377" selection-end="377" vertical-scroll-proportion="-2.1984925" vertical-offset="989" max-vertical-offset="1387" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1680" selection-end="1680" vertical-scroll-proportion="0.3316583" vertical-offset="533" max-vertical-offset="4351" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/template/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="36" selection-start="11998" selection-end="11998" vertical-scroll-proportion="0.8075" vertical-offset="5700" max-vertical-offset="24852" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/SpryTabbedPanels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery-1.7.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/selectivizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/fallback.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="23" selection-start="4302" selection-end="4302" vertical-scroll-proportion="3.8975" vertical-offset="2906" max-vertical-offset="4921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/SpryTabbedPanels.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="492" selection-end="492" vertical-scroll-proportion="1.0925" vertical-offset="0" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/cnxx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="9655" selection-end="9655" vertical-scroll-proportion="0.73693085" vertical-offset="0" max-vertical-offset="593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="575" selection-end="575" vertical-scroll-proportion="0.25082508" vertical-offset="171" max-vertical-offset="5339" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon_stone/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="21" selection-start="2280" selection-end="2280" vertical-scroll-proportion="0.0" vertical-offset="2222" max-vertical-offset="3249" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="220" column="0" selection-start="8476" selection-end="8476" vertical-scroll-proportion="0.5026455" vertical-offset="3724" max-vertical-offset="20045" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/shadow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="0" selection-start="5295" selection-end="5295" vertical-scroll-proportion="0.33187774" vertical-offset="2470" max-vertical-offset="5016" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="406" column="0" selection-start="15036" selection-end="15036" vertical-scroll-proportion="0.33187774" vertical-offset="7296" max-vertical-offset="35853" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="0" selection-start="4779" selection-end="4779" vertical-scroll-proportion="0.33187774" vertical-offset="1748" max-vertical-offset="5092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/planheading.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon_stone/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="50" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populate_dragon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="931" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1224" column="0" selection-start="22471" selection-end="22471" vertical-scroll-proportion="0.0" vertical-offset="22658" max-vertical-offset="24396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/addExperiment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="24" selection-start="2852" selection-end="2852" vertical-scroll-proportion="-9.035714" vertical-offset="1856" max-vertical-offset="2603">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/apply_intro_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="0" selection-start="4246" selection-end="4246" vertical-scroll-proportion="-7.785714" vertical-offset="2727" max-vertical-offset="3097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="24" selection-start="4010" selection-end="4010" vertical-scroll-proportion="-6.178571" vertical-offset="2164" max-vertical-offset="2527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/InviteCancel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="2" selection-start="2369" selection-end="2369" vertical-scroll-proportion="-7.0" vertical-offset="1723" max-vertical-offset="2071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="79" selection-start="1638" selection-end="1638" vertical-scroll-proportion="-4.964286" vertical-offset="659" max-vertical-offset="1007" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/userHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="22" selection-start="720" selection-end="720" vertical-scroll-proportion="-3.4770114" vertical-offset="1666" max-vertical-offset="2014" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/User_infor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="2193" selection-end="2193" vertical-scroll-proportion="-2.337838" vertical-offset="2708" max-vertical-offset="3078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/offer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="2563" selection-end="2564" vertical-scroll-proportion="-38.67857" vertical-offset="912" max-vertical-offset="2147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/applyList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="0" selection-start="3800" selection-end="3800" vertical-scroll-proportion="-61.035713" vertical-offset="1179" max-vertical-offset="3059">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/PendCancel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="51" selection-start="895" selection-end="895" vertical-scroll-proportion="12.25" vertical-offset="894" max-vertical-offset="2147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/refuse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="2" selection-start="1350" selection-end="1350" vertical-scroll-proportion="2.1785715" vertical-offset="1030" max-vertical-offset="2147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/SuccessfulApply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="773" selection-end="773" vertical-scroll-proportion="0.43678162" vertical-offset="342" max-vertical-offset="2090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/ownedList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="43" selection-start="1643" selection-end="1643" vertical-scroll-proportion="-31.214285" vertical-offset="399" max-vertical-offset="2356" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/cancel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="12" selection-start="984" selection-end="984" vertical-scroll-proportion="0.43678162" vertical-offset="456" max-vertical-offset="2147" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/AvailableExperiment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="6" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.0" vertical-offset="3224" max-vertical-offset="3406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="7" selection-start="3559" selection-end="3611" vertical-scroll-proportion="0.0" vertical-offset="2782" max-vertical-offset="3302">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="30" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="728" max-vertical-offset="1222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="6" selection-start="3825" selection-end="3832" vertical-scroll-proportion="0.8865672" vertical-offset="1888" max-vertical-offset="2546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/InviteAccept.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="4" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0" vertical-offset="1612" max-vertical-offset="2834">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/ErrorApply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="2860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="10" selection-start="2003" selection-end="2003" vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="910">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dragon/intro_Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="0" selection-start="4302" selection-end="4302" vertical-scroll-proportion="0.0" vertical-offset="4004" max-vertical-offset="4238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dragon/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="466" column="21" selection-start="18592" selection-end="18592" vertical-scroll-proportion="1.3358349" vertical-offset="11170" max-vertical-offset="12350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

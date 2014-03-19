@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+{% load static %}
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <link href="{% static "css/style.css" %}" rel="stylesheet" type="text/css" />
+    <title>Dragon_Stone</title>
+    <script src="{% static "js/SpryTabbedPanels.js"%}" type="text/javascript"></script>
+    <link href="{% static "css/SpryTabbedPanels.css" %}" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+
+<!--
+.STYLE1 {
+	font-size: 16;
+	font-weight: bold;
+}
+.STYLE2 {color: #000000}
+-->
+</style>
+
+</head>
+
+<body>
+<frameset rows="135,*"/>
+
+<div class="container">
+  <div class="headercon">
+    <div class="wrapper">
+      <div class="logo"><a href="../../"></a></div>
+      <div class="topright">
+       <div class="livechat"><a href="../../register/">Register</a></div>
+		<div class="login"><a href="../../Login/">Login</a></div>
+        <div class="clear"></div>
+        <!--topright-->
+      </div>
+      <div class="clear"></div>
+      <!--wrapper--> 
+    </div>
+    <!--headercon--> 
+  </div>
+  <div class="bannercon">
+    <!--bannercon-->
+</div>
+  <div class="clear"></div>
+  <div class="domaincon">
+    <div class="wrapper">
+      <div class="domianarea">
+        <div class="domianareainner">
+          <div class="domianlt">
+            <form class="form-signin span8" id="search_form" method="post" action="/dragon/search/">
+            {% csrf_token %}
+            <!-- Display the search form elements here -->
+            <h2>Find an experiment!</h2>
+             <input type="text" name="field1" id="field1" class="field1" onfocus='javascript: this.value = ""' onblur='javascript: if(this.value =="") this.value = "Enter Domain Name Here!"' />
+            <div class="drop">
+              <select  name="field2" id="field2"class="field2">
+                <option>Payment</option>
+                <option>StartTime</option>
+                <option>EndTime</option>
+               </select>
+            </div>
+            <input type="submit" name="submit" value="" class="field3" />
+             <br />
+             </form>
+            <div class="clear"></div>
+            <!--domianlt-->
+          </div>
+          <div class="clear"></div>
+          <!--domianareainner-->
+        </div>
+        <div class="clear"></div>
+        <!--domianarea-->
+      </div>
+      <div class="clear"></div>
+      <!--wrapper-->
+    </div>
+    <!--domaincon-->
+  </div>
+  <div class="clear"></div>
+  <div>
+
+  <div class="wrapper">
+    <div class="plancon">
+  <div id="TabbedPanels1" class="TabbedPanels">
+  {% if result_list %}
+  <div class="details">
+
+  <h2 align = "center">Experiment Details</h2>
+
+
+  </div>
+    <div class="MoreDetail1" >
+   <p align="center">
+     {% if firstName and secondName %}
+  <h4>The name of the experimentor is {{ firstName}}&nbsp; {{secondName}}.</h4>
+     {% else %}
+            There are no Experimenter Name present.
+     {% endif %}
+   </h4>
+
+  The name of the experiment is {{ result_list.title}} and you will get $ {{ result_list.payment}} for it.<br />
+  You must have an educational level {{ result_list.educationDemand}} at least. The first language of the applicant must be {{ result_list.language}}.<br/>
+  The Max Position of this experiment is {{ result_list.maxPosition}};&nbsp; And the current offered position is {{ result_list.currentOffer}}.<br />
+  This experiment will start from {{ result_list.startTime}} to {{ result_list.endTime}}.
+  The brief introduction of this experiment is {{ result_list.description}}
+
+   {% else %}
+            There are no Experiments present.
+     {% endif %}
+ </p>
+
+  <div class="clear"></div>
+  <div class="clear"></div>
+
+
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+<div class="copycon" align="center" >
+            <font color=#FFFF> Copyright &copy; 2014.Team Name: Dragon_Stone. All rights reserved.</font>>
+          <!--copycon-->
+ </div>
+ 
+</body>
+</html>

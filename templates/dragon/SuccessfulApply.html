@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+{% load static %}
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="{% static "css/style.css" %}" rel="stylesheet" type="text/css" />
+    <title>Dragon_Stone</title>
+    <script src="{% static "js/SpryTabbedPanels.js"%}" type="text/javascript"></script>
+    <link href="{% static "css/SpryTabbedPanels.css" %}" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+<!--
+.STYLE1 {
+	font-size: 16;
+	font-weight: bold;
+}
+.STYLE2 {color: #000000}
+-->
+</style>
+
+</head>
+
+<body>
+
+
+<div class="container">
+  <div class="headercon">
+    <div class="wrapper">
+      <div class="logo"><a href="#"></a></div>
+      <div class="topright">
+		<div class="login"><a href="/dragon/logout/">Logoff</a></div>
+        <div class="clear"></div>
+        <!--topright-->
+      </div>
+      <div class="clear"></div>
+      <!--wrapper--> 
+    </div>
+    <!--headercon--> 
+  </div>
+  <div class="bannercon">
+    <!--bannercon-->
+</div>
+</div>
+  <div class="clear"></div>
+
+
+  <div>
+  <div class="wrapper">
+  <div class="domianarealeft">
+  <div class="domianareainnerleft">
+  <div class="domianltleft">
+  <div id="TabbedPanels1" class="TabbedPanels">
+  
+<ul>
+<li>
+<a href="#">User Profile</a>
+<dl>
+<dt></dt>
+<dd><a href="/dragon/Login/userinfo">View Profile</a></dd>
+</dl>
+</li>
+<li>
+<a href="#">Experiment Management</a>
+<dl>
+<dt></dt>
+<dd><a href="/dragon/Login/ownedList">Owned Experiments</a></dd>
+<dd><a href="/dragon/Login/addNewExperiment/">New Experimenter</a></dd>
+</dl>
+</li>
+<li>
+<a href="#">Applicant Management</a>
+<dl>
+<dt></dt>
+<dd><a href="/dragon/Login/viewList">Available Experiments</a></dd>
+<dd><a href="/dragon/Login/applyList">Applicants List</a></dd>
+</dl>
+</li>
+</ul>
+
+  
+  <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+  </div>
+  </div>
+  </div>
+   <div>
+  <div class="wrapper">
+  <div class="domianarearight">
+  <div class="domianareainnerright">
+      <h4><strong>You have already applied the experiment successful!</strong></h4> <a href="/dragon/Login/viewList">Return</a>
+  </div>
+  <div class="clear"></div>
+
+
+  </div> 
+  </div>
+  </div>
+  
+</body>
+</html>
